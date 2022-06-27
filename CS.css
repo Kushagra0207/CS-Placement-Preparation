@@ -1,0 +1,19 @@
+body{
+    background-image: url(./images/123.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+    }
+#hc{
+    color:rgb(13, 200, 233);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 150px;
+   
+}
+#wc{
+    color: rgb(0, 255, 115);
+    font-size: 50px;
+    
+}
